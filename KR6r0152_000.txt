@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 集神州三寶感通錄
+#+DATE: 2015-08-30 22:29:12.110735
+#+PROPERTY: JUAN 0
